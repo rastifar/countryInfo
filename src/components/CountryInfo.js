@@ -12,6 +12,7 @@ const CountryInfo = () => {
   const navigate = useNavigate();
   const location = useLocation();
   const { countries } = useContext(CountryContext);
+  console.log(countries);
   const country = countries.find((item) => item.name === name);
 
   const findCountryNameByAlfa3Code = (alpha3Code) => {
