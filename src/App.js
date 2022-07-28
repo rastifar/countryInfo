@@ -17,7 +17,7 @@ const App = () => {
           <Routes>
             {/* <Route path="/countryInfo" element={<Header />}> */}
               <Route path="/countryInfo" element={<Main />} />
-              <Route path="/countryInfo/:name" element={<CountryInfo />} />
+              <Route path="/:name" element={<CountryInfo />} />
             {/* </Route> */}
             <Route path="/*" element={<Navigate to="/countries" />} />
           </Routes>
