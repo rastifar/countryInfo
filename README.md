@@ -42,14 +42,14 @@ API Data: The app fetches data from an external API and displays it in a user-fr
 # Features
 •  Context API: Manages the state for light and dark themes.
 
-•  API Integration: Fetches and displays data from an external API.
+•  API Integration using Axios: Fetches and displays data from an external API.
 
 •  SASS Styling: Uses SASS for modular and maintainable styling.
 
 # Technologies Used
 •  React: A JavaScript library for building user interfaces.
 
-•  Context API: For state management.
+•  Context : For state management.
 
 •  SASS: For styling.
 
