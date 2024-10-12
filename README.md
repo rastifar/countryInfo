@@ -39,14 +39,14 @@ Theme Toggle: Use the theme toggle button to switch between light and dark theme
 2. 
 API Data: The app fetches data from an external API and displays it in a user-friendly format.
 
-Features
+# Features
 •  Context API: Manages the state for light and dark themes.
 
 •  API Integration: Fetches and displays data from an external API.
 
 •  SASS Styling: Uses SASS for modular and maintainable styling.
 
-Technologies Used
+# Technologies Used
 •  React: A JavaScript library for building user interfaces.
 
 •  Context API: For state management.
